@@ -1,0 +1,4 @@
+npx expo install react-native@0.76.6
+
+npx expo-doctor
+npx expo start -c
