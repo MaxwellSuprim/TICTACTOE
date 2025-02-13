@@ -122,7 +122,7 @@ const styles = StyleSheet.create({
   },
   resetText: {
     color: "#fff",
-    fontSize: 18,
+    fontSize: 17,
     fontWeight: "bold",
     textAlign: "center",
   },
